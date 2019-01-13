@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Simbag.Bag">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAgAAAAAAQkQAAEFAAAAhIBAQAAAAQABgAAAAggA=</HashCode>
+      <FileName>Bag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbag.Builder">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAACUCEAAAAAIAEAQAAAEAA=</HashCode>
+      <FileName>Builder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbag.CheckIn">
+    <Position X="8.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAoAAAAAgAAAAAAAAQQAAAEAAAAAQAAA=</HashCode>
+      <FileName>CheckIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbag.ConveyorMerge">
+    <Position X="1.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAgAAAgAAAAAgAAAAAAAAQQAAAEAAAAAAAAA=</HashCode>
+      <FileName>ConveyorMerge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbag.ConveyorSplit">
+    <Position X="7" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAgAAAgAAAAAgAAAAAAAAQQAAAEAAAAAAAAA=</HashCode>
+      <FileName>ConveyorSplit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbag.Gate">
+    <Position X="3" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAgAAAoAAAAAgAAAAAAAAQQAAAEAAAAAAAAA=</HashCode>
+      <FileName>Gate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbag.Node">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAFAgAAAgRAAEJgAAACABAAQQAQAEAAAAAQAgg=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbag.SecurityCheckPoint">
+    <Position X="4.75" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAgAAAoAAAECgAAAAAAAAQQAAAEAAAAAQAAA=</HashCode>
+      <FileName>SecurityCheckPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbag.Simulator">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAgAAAAAAAAACICAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Simulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbag.Transport">
+    <Position X="13.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAAAAgAAAEAAAABQAAACAQAAAQABAAAQAgA=</HashCode>
+      <FileName>Transport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
